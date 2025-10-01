@@ -9,24 +9,24 @@ import {
 } from "lucide-react";
 
 const features = [
-  // {
-  //   icon: Target,
-  //   title: "Metas Financeiras Inteligentes",
-  //   description:
-  //     "Defina e acompanhe suas metas financeiras com sugestões personalizadas baseadas no seu perfil e objetivos de vida.",
-  // },
+  {
+    icon: Target,
+    title: "Metas Financeiras Inteligentes",
+    description:
+      "Defina e acompanhe suas metas financeiras com sugestões personalizadas baseadas no seu perfil e objetivos de vida.",
+  },
   {
     icon: BookCheck,
     title: "Educação Financeira Diária",
     description:
       "Aprenda sobre investimentos, economia e planejamento financeiro com conteúdo adaptado para jovens brasileiros.",
   },
-  // {
-  //   icon: ChartPie,
-  //   title: "Análise de Gastos em Tempo Real",
-  //   description:
-  //     "Receba insights instantâneos sobre seus gastos e descubra onde você pode economizar e investir melhor.",
-  // },
+  {
+    icon: ChartPie,
+    title: "Análise de Gastos em Tempo Real",
+    description:
+      "Receba insights instantâneos sobre seus gastos e descubra onde você pode economizar e investir melhor.",
+  },
   {
     icon: TrendingUp,
     title: "Recomendações de Investimento",
@@ -39,12 +39,12 @@ const features = [
     description:
       "Tire dúvidas, receba conselhos e monitore seus investimentos a qualquer hora, direto no app que você já usa.",
   },
-  // {
-  //   icon: Zap,
-  //   title: "Automação Financeira",
-  //   description:
-  //     "Configure aportes automáticos, lembretes de pagamento e alertas de oportunidades de investimento.",
-  // },
+  {
+    icon: Zap,
+    title: "Automação Financeira",
+    description:
+      "Configure aportes automáticos, lembretes de pagamento e alertas de oportunidades de investimento.",
+  },
 ];
 
 const Features = () => {
